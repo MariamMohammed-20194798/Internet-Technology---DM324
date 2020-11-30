@@ -1,63 +1,41 @@
-.s1{
-    color: darkslateblue;
-    text-align: center;
-    text-transform: capitalize;
-    font-size: 50px;
+.m
+{
+background-color: #a36ba3;
+background-image: ;
 }
 ul{
     list-style-type: none;
-    border: 1px solid #8d8d8d; 
-    background-color: #ffffff;
-    overflow: hidden;
-    padding: 1px;
-    margin: 1px;
+    border: 1px solid #ce89ce;
+    background-color: rgb(68, 188, 228);
 
+    
 }
-.li-left{
-    background-color: rgb(81, 81, 233);
-    float: right;
-}
-li{
-    float : left;
-}
-li a.s2{
-    color: rgb(255, 255, 255);
-    background-color: rgb(92, 72, 180);
-}
-li a{
-    display: block;
-    color: rgb(0, 0, 0);
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-}
-.f1{
-    text-align: center;
-    color: rgb(0, 0, 0);
-    border: 4px steelblue;
-    padding: inherit;
+ul{
+    display: inline;
 }
 div{
-    padding: inherit;
-    text-align: center;
-    background: rgb(75, 209, 233);
-    width: 400px;
-    height: 200px;
-    border-radius: 10px;
-    border-bottom: 20px;
-
-    margin-left: 750px;
-    margin-top: 200px;
-    
-}
-.img1{
-    height: 40px;
-    width: 70px;
-    margin-left: -300px;
-    border: lightblue;
-    margin-top: 15px;
-    
+    border: 3px solid;
+    border-style: solid;
+    background-image: -o-linear-gradient();
 }
 
-
+li a{
+ display: block;
+ color: #ce89ce;
+ padding-right: 15px;
+ padding-left: 15px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+}
+.alt{
+    background-color: lightpink;
+    padding: 0px;
+    margin: 0px;
+}
+    th {
+        background-color: darkblue;
+        color: white;
+    }
+    tr:nth-child(even) {background-color: #f2f2f2;}
+        
+      
